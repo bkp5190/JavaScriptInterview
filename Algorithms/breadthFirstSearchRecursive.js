@@ -70,7 +70,7 @@ class BinarySearchTree {
   }
 }
 
-tree = new BinarySearchTree();
+let tree = new BinarySearchTree();
 tree.insert(9);
 tree.insert(4);
 tree.insert(20);
